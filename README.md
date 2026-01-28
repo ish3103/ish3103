@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Java-based backend projects using Spring Boot and Rest APIs <br>👯 I’m looking to collaborate on Open-source Projects , Backend devlopment , or full- stack web applications<br>🤝 I’m looking for help with Improving system design , DSA- problem - solving and writing prodution - level backend code<br>🌱 I’m currently learning Data Structures and Algorithm , Spring Boot , React , and database optimization <br>💬 Ask me about Java , Rest APIs , Spring Boot basics and Full-stack project devlopment<br>⚡ Fun fact I believe consistency beats talent , and i try to code every day -- even if it is just one problem
 
 
 ## 🌐 Socials:
